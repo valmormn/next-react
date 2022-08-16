@@ -1,0 +1,10 @@
+.shadow {
+  filter: drop-shadow(3px 5px 2px rgba(0, 0, 0, 0.3));
+  --tw-bg-opacity: 0.95;
+}
+
+.fixedbar {
+  position: fixed;
+  top: 0;
+  margin-bottom: 32px;
+}

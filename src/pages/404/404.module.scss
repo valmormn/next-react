@@ -1,0 +1,16 @@
+.wtf {
+  font-size: 96px;
+}
+
+.error404 {
+  // background-color: red;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: flex-start;
+
+  button {
+    width: 260px;
+    margin: 1rem;
+  }
+}

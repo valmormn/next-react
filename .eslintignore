@@ -1,0 +1,7 @@
+!.storybook
+!.jest
+
+**/*.css
+**/*.scss
+
+
